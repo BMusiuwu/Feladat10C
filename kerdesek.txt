@@ -1,0 +1,6 @@
+Válaszolj az alábbi kérdésekre:
+Írd bele a saját neved! Szomoru Csaba
+Mi a Git és a GITHUB közötti különbség? a githubon megosztjuk a fájlokat a giten pedig "programozni" tudunk egyébb parancsok használatávaé
+Mit jelent a repository? a repositoryt amit csinalunk abba taroljuk a dolgokat
+Milyen feladatra jó a GITHUB? egy könnyen kezelhető adat megosztó felület
+Mi a stage?

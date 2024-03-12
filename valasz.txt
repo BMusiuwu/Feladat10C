@@ -1,0 +1,6 @@
+Szomoru Csaba
+
+git push
+git commit
+git status
+git log
